@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinithkodithuwakku
-- 👀 I’m interested in Java, Nodejs, Reactjs, and React Native
-- 🌱 I’m currently working with the Eyerax team
+- 👀 More than 2 years experience in Java, Nodejs, Reactjs, and React Native
+- 🌱 Wiley colleague 
 - 📫 Reach me @dinith.kodithuwakku@gmail.com or @github.dinith.kodithuwakku@gmail.com :octocat:
 - :octocat: @dinith.kodithuwakku@gmail.com (dinithkodithuwakku-zero) 2018 - 2021
 - ✨ https://www.linkedin.com/in/dinithkodithuwakku/
